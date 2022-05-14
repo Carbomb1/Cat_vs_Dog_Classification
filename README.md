@@ -1,5 +1,8 @@
 # Cat_vs_Dog_Classification
 
+![image](https://user-images.githubusercontent.com/45641348/168451693-bd33db1e-50e2-4b23-bb7e-4b393ec7179d.png)
+
+
 ## Background
 This project follows the work I did for a Kaggle competition where users try to predict how probable an image is to being a cat or a dog. The final score on a loss function, with 0.0 being a perfect score. \
 Kaggle competition link -https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview
