@@ -1,6 +1,6 @@
 # Cat_vs_Dog_Classification
 
-![image](https://user-images.githubusercontent.com/45641348/168451814-7a2710e2-d1a6-4a9b-b948-80364b613d26.png)
+![image](https://user-images.githubusercontent.com/45641348/168451835-c3456f32-4c8b-4500-81d7-56068d1b4287.png)
 
 
 ## Background
